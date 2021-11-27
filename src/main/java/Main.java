@@ -1,5 +1,5 @@
 /*
-Before run Main use Generator for generation
+Before run Main use Generator
 Generator create 3 file (.txt containing array of nums)
 */
 
