@@ -16,6 +16,6 @@ This program helps to compare of theoretical asymptotics of sorting algorithms w
 - Swing (graphical interface)
 - [XChart](https://github.com/knowm/XChart) (plotting)
 - Maven
-- 
+
 ## Conclusion
 To build graphs with correct scale lower size input data for slow algorithms and enlarge for fast algorithms.
